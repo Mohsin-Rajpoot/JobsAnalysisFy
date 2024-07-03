@@ -21,7 +21,7 @@ export default function Banner() {
               </div>
             </div>
           </div>
-          <div className="row justify-content-center">
+          {/* <div className="row justify-content-center">
             <div className="col-lg-8 dashBoard">
               <iframe
                 title="layOffs"
@@ -32,7 +32,7 @@ export default function Banner() {
                 allowFullScreen="true"
               ></iframe>
             </div>
-          </div>
+          </div> */}
         </div>
       </Wrapper>
     </>

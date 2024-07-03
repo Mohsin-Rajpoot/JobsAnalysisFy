@@ -5,6 +5,7 @@ import JobSeekers from "../components/seekers";
 import BSgradient from "../components/BSgradient";
 import Footer from "../components/Footer";
 import News from "../components/News";
+import JobL from "../components/JobL";
 
 export default function landingPage() {
   return (
@@ -12,6 +13,7 @@ export default function landingPage() {
       <Nav />
       <ShowCase />
       <JobSeekers />
+      <JobL />
       <BSgradient />
       <Footer />
     </div>
